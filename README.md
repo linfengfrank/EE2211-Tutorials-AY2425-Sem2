@@ -5,6 +5,8 @@ The tutorial materials are prepared based on lecture notes and [Notes for EE2211
 
 Instructions on how to download files from GitHub can be found here: [Downloading files from GitHub](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github). 
 
+You can also use DownGit to download a subfolder from a GitHub repository:[https://downgit.github.io/#/home]
+
 This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_guide/10min.html#minutes-to-pandas]
 
 If you have any questions about the tutorials, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
