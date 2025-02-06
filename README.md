@@ -9,6 +9,13 @@ You can also use DownGit to download a subfolder from a GitHub repository:[https
 
 This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_guide/10min.html#minutes-to-pandas]
 
+
+## Create a new environment for EE2211
+```
+conda create --name ee2211 python=3.8 numpy=1.24 matplotlib scikit-learn pandas
+```
+
+
 If you have any questions about the tutorials, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
 
 
