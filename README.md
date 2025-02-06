@@ -11,9 +11,29 @@ This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_gui
 
 
 ## Commonly Used Commands
-Create a new environment for EE2211
+Create a new environment called ee2211 in Anaconda terminal.
 ```
 conda create --name ee2211 python=3.8 numpy=1.24 matplotlib scikit-learn pandas
+```
+
+Activate the ee2211 environment in Anaconda terminal.
+```
+conda activate ee2211
+```
+
+Install pandas
+```
+conda install pandas
+```
+
+Install scikit-learn
+```
+conda install scikit-learn
+```
+
+Install Matplotlib
+```
+conda install matplotlib
 ```
 
 
