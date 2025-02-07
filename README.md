@@ -39,6 +39,10 @@ conda install matplotlib
 ## Introduction to pandas
 This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_guide/10min.html#minutes-to-pandas]
 
+## Introduction to Scikit-learn
+Scikit-learn tutorials: [https://scikit-learn.org/1.4/tutorial/index.html]
+Scikit-learn introduction: [https://scikit-learn.org/stable/]
+
 
 ## Feedback
 If you have any questions about the tutorials, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
