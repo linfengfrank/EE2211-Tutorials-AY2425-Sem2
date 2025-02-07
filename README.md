@@ -41,6 +41,7 @@ This is a brief introduction to pandas: [https://pandas.pydata.org/docs/user_gui
 
 ## Introduction to Scikit-learn
 Scikit-learn tutorials: [https://scikit-learn.org/1.4/tutorial/index.html]
+
 Scikit-learn introduction: [https://scikit-learn.org/stable/]
 
 
