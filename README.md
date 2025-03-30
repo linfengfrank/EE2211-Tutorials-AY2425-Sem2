@@ -9,6 +9,8 @@ Instructions on how to download files from GitHub can be found here: [Downloadin
 You can also use DownGit to download a subfolder from a GitHub repository:[https://downgit.github.io/#/home]
 
 
+## Recorded Tutorial Veideos
+[Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw)
 
 ## Commonly Used Commands
 Create a new environment called ee2211 in Anaconda terminal.
