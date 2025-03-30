@@ -10,7 +10,7 @@ You can also use DownGit to download a subfolder from a GitHub repository:[https
 
 
 ## Recorded Tutorial Veideos
-[Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw)
+[Pre-Tutorial 9](https://youtu.be/trOE51gSkQg?si=toTni1FyaYOZCAVw) [Tutrial 9](https://youtu.be/_mat3sEhaGU?si=_rklNhbMy5S5HqS8)
 
 ## Commonly Used Commands
 Create a new environment called ee2211 in Anaconda terminal.
